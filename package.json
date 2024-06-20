@@ -1,5 +1,8 @@
 {
-  "name": "component-library-test",
+  "name": "@mistyb01/mistyb01-component-library-test",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/mistyb01"
+  },
   "version": "1.0.0",
   "description": "demo for a react component library",
   "scripts": {
